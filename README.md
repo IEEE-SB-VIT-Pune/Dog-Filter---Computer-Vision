@@ -2,11 +2,15 @@ Computer Vision not only plays a pivotal role in a lot of modern day Artificial 
 
 We would be writing our code in Python so please ensure that Python is already downloaded in your system.
 
+<h2><b> Resources used </b></h2>
+
 There will be two external files you will primarily need to build this project:
 1. Haar Cascade files: Haar Cascade is an openCV algorithm which is used to detect an array of objects, smiles and eyes to mention a few alongside faces. In our project, we will be using it just for face detection. However, feel free to explore all the xml files by trying to detect all the objects that the model can detect. 
 2. Image of the filter: We will be using the Dog ears filter but that is only restricted to this project. Please go ahead and experiment with different types of filters.
 
 Both these files can be found in the folder labeled "Resources."
+
+<h2><b> File setup </b></h2>
 
 Instructions for setting up the Haar Cascade files:
 1. Download the archived folder containing the Haar cascade files. It will be named as "haar-cascade-files-master.zip" in the resources folder.
